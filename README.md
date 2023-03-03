@@ -1,6 +1,6 @@
 # Anagram Checker
 
-Return `true` if the two given strings are anagrams. Otherwise, return `false`.
+Return `true` if the two given strings are anagrams. Otherwise, return `false`..
 
 A word is an <dfn>anagram</dfn> of another word if both use the same letters in the same quantity, but arranged differently.
 
